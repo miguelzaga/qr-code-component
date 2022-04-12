@@ -59,3 +59,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Frontend Mentor - [@miguelzaga](https://www.frontendmentor.io/profile/miguelzaga)
+- Linkedin - [@miguelzaga](https://www.frontendmentor.io/profile/miguelzaga)
